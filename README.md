@@ -31,4 +31,3 @@ It is recommended to parallelize the evaluation of the individuals in the popula
   organization={SIAM}
 }
 ```
-
